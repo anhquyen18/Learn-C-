@@ -1,0 +1,14 @@
+F:\Programming\Learn C#\Bai16\Bai16\bin\Debug\netcoreapp3.1\Bai16.exe
+F:\Programming\Learn C#\Bai16\Bai16\bin\Debug\netcoreapp3.1\Bai16.deps.json
+F:\Programming\Learn C#\Bai16\Bai16\bin\Debug\netcoreapp3.1\Bai16.runtimeconfig.json
+F:\Programming\Learn C#\Bai16\Bai16\bin\Debug\netcoreapp3.1\Bai16.runtimeconfig.dev.json
+F:\Programming\Learn C#\Bai16\Bai16\bin\Debug\netcoreapp3.1\Bai16.dll
+F:\Programming\Learn C#\Bai16\Bai16\bin\Debug\netcoreapp3.1\Bai16.pdb
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.AssemblyInfoInputs.cache
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.AssemblyInfo.cs
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.dll
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.pdb
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.genruntimeconfig.cache
+F:\Programming\Learn C#\Bai16\Bai16\obj\Debug\netcoreapp3.1\Bai16.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+F:\Programming\Learn C#\Bai17\Bai17\bin\Debug\netcoreapp3.1\Bai17.exe
+F:\Programming\Learn C#\Bai17\Bai17\bin\Debug\netcoreapp3.1\Bai17.deps.json
+F:\Programming\Learn C#\Bai17\Bai17\bin\Debug\netcoreapp3.1\Bai17.runtimeconfig.json
+F:\Programming\Learn C#\Bai17\Bai17\bin\Debug\netcoreapp3.1\Bai17.runtimeconfig.dev.json
+F:\Programming\Learn C#\Bai17\Bai17\bin\Debug\netcoreapp3.1\Bai17.dll
+F:\Programming\Learn C#\Bai17\Bai17\bin\Debug\netcoreapp3.1\Bai17.pdb
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.csproj.AssemblyReference.cache
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.AssemblyInfoInputs.cache
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.AssemblyInfo.cs
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.dll
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.pdb
+F:\Programming\Learn C#\Bai17\Bai17\obj\Debug\netcoreapp3.1\Bai17.genruntimeconfig.cache
