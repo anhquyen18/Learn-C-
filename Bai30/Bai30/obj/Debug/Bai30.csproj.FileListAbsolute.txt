@@ -1,0 +1,12 @@
+F:\Programming\Learn C#\Bai30\Bai30\bin\Debug\Bai30.exe.config
+F:\Programming\Learn C#\Bai30\Bai30\bin\Debug\Bai30.exe
+F:\Programming\Learn C#\Bai30\Bai30\bin\Debug\Bai30.pdb
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.csproj.AssemblyReference.cache
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.MainForm.resources
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.Properties.Resources.resources
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.csproj.GenerateResource.cache
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.exe
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.pdb
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.SinhVienForm.resources
+F:\Programming\Learn C#\Bai30\Bai30\obj\Debug\Bai30.BaiTap.resources

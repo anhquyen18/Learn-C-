@@ -1,0 +1,11 @@
+F:\Programming\Learn C#\Bai33\Bai33\bin\Debug\Bai33.exe.config
+F:\Programming\Learn C#\Bai33\Bai33\bin\Debug\Bai33.exe
+F:\Programming\Learn C#\Bai33\Bai33\bin\Debug\Bai33.pdb
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.csproj.AssemblyReference.cache
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.Properties.Resources.resources
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.csproj.GenerateResource.cache
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.exe
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.pdb
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.FormDanhMuc.resources
+F:\Programming\Learn C#\Bai33\Bai33\obj\Debug\Bai33.FormSanPham.resources
