@@ -1,0 +1,13 @@
+F:\Programming\Learn C#\Bai44\Bai44\bin\Debug\Bai44.exe.config
+F:\Programming\Learn C#\Bai44\Bai44\bin\Debug\Bai44.exe
+F:\Programming\Learn C#\Bai44\Bai44\bin\Debug\Bai44.pdb
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.csproj.AssemblyReference.cache
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.MainForm.resources
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.Properties.Resources.resources
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.csproj.GenerateResource.cache
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.exe
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.pdb
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.FormBai1.resources
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.FormBai2.resources
+F:\Programming\Learn C#\Bai44\Bai44\obj\Debug\Bai44.FormBai3.resources
