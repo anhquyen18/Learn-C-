@@ -1,0 +1,11 @@
+F:\Programming\Learn C#\Bai48\Bai48\bin\Debug\Bai48.exe.config
+F:\Programming\Learn C#\Bai48\Bai48\bin\Debug\Bai48.exe
+F:\Programming\Learn C#\Bai48\Bai48\bin\Debug\Bai48.pdb
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.csproj.AssemblyReference.cache
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.Form1.resources
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.Properties.Resources.resources
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.csproj.GenerateResource.cache
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.exe
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.pdb
+F:\Programming\Learn C#\Bai48\Bai48\obj\Debug\Bai48.Form2.resources
