@@ -1,0 +1,11 @@
+F:\Programming\Learn C#\Bai50\Bai50\bin\Debug\Bai50.exe.config
+F:\Programming\Learn C#\Bai50\Bai50\bin\Debug\Bai50.exe
+F:\Programming\Learn C#\Bai50\Bai50\bin\Debug\Bai50.pdb
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.csproj.AssemblyReference.cache
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.Form1.resources
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.Properties.Resources.resources
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.csproj.GenerateResource.cache
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.exe
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.pdb
+F:\Programming\Learn C#\Bai50\Bai50\obj\Debug\Bai50.FormThemNut.resources
