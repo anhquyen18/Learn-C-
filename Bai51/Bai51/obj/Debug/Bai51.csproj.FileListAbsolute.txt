@@ -1,0 +1,9 @@
+F:\Programming\Learn C#\Bai51\Bai51\bin\Debug\Bai51.exe.config
+F:\Programming\Learn C#\Bai51\Bai51\bin\Debug\Bai51.exe
+F:\Programming\Learn C#\Bai51\Bai51\bin\Debug\Bai51.pdb
+F:\Programming\Learn C#\Bai51\Bai51\obj\Debug\Bai51.Form1.resources
+F:\Programming\Learn C#\Bai51\Bai51\obj\Debug\Bai51.Properties.Resources.resources
+F:\Programming\Learn C#\Bai51\Bai51\obj\Debug\Bai51.csproj.GenerateResource.cache
+F:\Programming\Learn C#\Bai51\Bai51\obj\Debug\Bai51.csproj.CoreCompileInputs.cache
+F:\Programming\Learn C#\Bai51\Bai51\obj\Debug\Bai51.exe
+F:\Programming\Learn C#\Bai51\Bai51\obj\Debug\Bai51.pdb
